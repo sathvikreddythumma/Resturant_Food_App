@@ -49,6 +49,7 @@ npm run server
 The API will be available at: http://localhost:5000 (or the PORT you set).
 
 ## API – Endpoints overview
+- NOTE: If any api(given below) is not present, once try with those. 
 
 Base path: `/api/v1`
 
